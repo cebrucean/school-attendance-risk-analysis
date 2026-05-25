@@ -111,7 +111,7 @@ Connecticut State Department of Education — School Attendance dataset, coverin
 ```bash
 # 1. Clone the repo
 git clone https://github.com/cebrucean/school-attendance-risk-analysis
-cd attendance-risk-analysis
+cd school-attendance-risk-analysis
 
 # 2. Install dependencies
 pip install -r requirements.txt
